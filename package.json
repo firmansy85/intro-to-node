@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "18.17.1",
+  "description": "simple web app",
+  "main": "mynodes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firmansy85/intro-to-node.git"
+  },
+  "author": "firmansy85",
+  "license": "MIT",
+  "bugs": {
+	"url": "https://github.com/firmansy85/intro-to-node/issues"
+  },
+  "homepage": "https://github.com/firmansy85/intro-to-node#readme
+}
